@@ -2,6 +2,7 @@
 Overview
 
 This project implements an advanced Generative Adversarial Network (GAN) trained on the CelebA dataset. The model architecture consists of a Generator and a Critic (Discriminator), designed to generate high-quality synthetic images. The training process follows the Wasserstein GAN with Gradient Penalty (WGAN-GP) approach to improve stability and convergence.
+![resultgithub](https://github.com/user-attachments/assets/ee3b765c-c43c-4999-9e9b-65b347600b16)
 
 Features
 
