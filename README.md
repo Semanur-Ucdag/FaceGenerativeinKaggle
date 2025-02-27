@@ -99,7 +99,4 @@ Results
 
 The model successfully generates high-quality human face images with realistic features. The WGAN-GP approach improves training stability and ensures better diversity in generated images.
 
-License
-
-This project is open-source and distributed under the MIT License.
 
